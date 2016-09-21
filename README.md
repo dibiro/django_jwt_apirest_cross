@@ -1,0 +1,2 @@
+# django_jwt_apirest_cross
+boilerplate Django_Jwt_ApiRestFramework_CrossDomain
